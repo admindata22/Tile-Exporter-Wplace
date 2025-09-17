@@ -6,7 +6,7 @@
 ## 🧪 Installation
 
 1. Download [Tampermonkey](https://www.tampermonkey.net/).  
-2. [Click me!](https://raw.githubusercontent.com/cuenta-ppf-10/Tile-Exporter-Wplace/main/tile-downloader.js)
+2. [Click me!](https://www.tampermonkey.net/script_installation.php#url=https://raw.githubusercontent.com/cuenta-ppf-10/Tile-Exporter-Wplace/main/tile-downloader.js)
 3. Hit install and open [WPlace](https://wplace.live/).
 
 ## ❗ Notes
