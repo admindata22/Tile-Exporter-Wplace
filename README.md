@@ -1,25 +1,24 @@
 # Tile-Exporter-Wplace
+### Movable dashboard to download, merge, and preview map tiles in full resolution.
 
-![Tile Exporter Preview](https://files.catbox.moe/bylc9c.png)
+<img src="https://files.catbox.moe/bylc9c.png" width="128px" height="128px" alt="Tile Preview">
 
-Movable dashboard to download, merge, and preview map tiles in full resolution.
+## 🧪 Installation
 
-## Features
-- Download map tiles from a custom server
-- Merge tiles into a single image
-- Preview the merged image in the dashboard
-- Save as full-resolution PNG
-- Adaptive canvas that resizes automatically
-- Drag-and-drop movable UI
-- Progress tracking
+1. Download [Tampermonkey](https://www.tampermonkey.net/). 
+2. [Click here to install the script](https://raw.githubusercontent.com/usuario/adaptive-tile-downloader/main/tile-downloader.user.js).
+3. Hit install and open [WPlace](https://wplace.live/).
 
-## Installation
-1. Install [Tampermonkey](https://www.tampermonkey.net/) or a compatible userscript manager.
-2. Click the "Raw" button on `tile-downloader.user.js` in this repository.
-3. Tampermonkey will prompt to install the script.
+## ❗ Notes
 
-## Updates
-The script supports automatic updates via Tampermonkey. Make sure the `@updateURL` and `@downloadURL` point to this repository's raw file.
+- The script supports **automatic updates** via Tampermonkey.
+- You can preview the merged tiles before saving as PNG.
+- Full-resolution export is available after merging tiles.
 
-## License
-[MIT](LICENSE)
+---
+
+Copyleft (C) 2025 YourName
+
+This program is free software; you can redistribute it and/or modify it under the terms of the MIT License.
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+You should have received a copy of the MIT License along with this program. If not, see <https://opensource.org/licenses/MIT>.
