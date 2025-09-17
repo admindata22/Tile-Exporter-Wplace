@@ -6,7 +6,7 @@
 ## 🧪 Installation
 
 1. Download [Tampermonkey](https://www.tampermonkey.net/). 
-2. [Click here to install the script](https://raw.githubusercontent.com/usuario/adaptive-tile-downloader/main/tile-downloader.user.js).
+2. [Click here to install the script]([https://raw.githubusercontent.com/usuario/adaptive-tile-downloader/main/tile-downloader.user.js](https://github.com/cuenta-ppf-10/Tile-Exporter-Wplace/blob/main/tile-downloader.js)).
 3. Hit install and open [WPlace](https://wplace.live/).
 
 ## ❗ Notes
