@@ -1,5 +1,7 @@
 # Tile-Exporter-Wplace
 
+![Tile Exporter Preview](https://files.catbox.moe/bylc9c.png)
+
 Movable dashboard to download, merge, and preview map tiles in full resolution.
 
 ## Features
@@ -21,4 +23,3 @@ The script supports automatic updates via Tampermonkey. Make sure the `@updateUR
 
 ## License
 [MIT](LICENSE)
-
